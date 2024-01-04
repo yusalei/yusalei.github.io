@@ -1,0 +1,8 @@
+@InProceedings{Zhang_2022_CVPR,
+    author    = {Zhang, Jie and Li, Bo and Xu, Jianghe and Wu, Shuang and Ding, Shouhong and Zhang, Lei and Wu, Chao},
+    title     = {Towards Efficient Data Free Black-Box Adversarial Attack},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {15115-15125}
+}

@@ -1,0 +1,6 @@
+@article{zhang2023compress,
+  title={Compress & Align: Curating Image-Text Data with Human Knowledge},
+  author={Lei Zhang and Fangxun Shu and Sucheng Ren and Bingchen Zhao and Hao Jiang and Cihang Xie},
+  journal={arXiv preprint arXiv:2312.06726},
+  year={2023}
+}

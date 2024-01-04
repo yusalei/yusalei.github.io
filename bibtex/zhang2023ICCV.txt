@@ -1,0 +1,8 @@
+@InProceedings{Zhang_2023_ICCV,
+    author    = {Zhang, Lei and Wang, Zhibo and Dong, Xiaowei and Feng, Yunhe and Pang, Xiaoyi and Zhang, Zhifei and Ren, Kui},
+    title     = {Towards Fairness-aware Adversarial Network Pruning},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {5168-5177}
+}
