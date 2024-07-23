@@ -1,6 +1,0 @@
-@article{zhang2023audio,
-  title={Audio-Visual LLM for Video Understanding},
-  author={Fangxun Shu and Lei Zhang and Hao Jiang and Cihang Xie},
-  journal={arXiv preprint arXiv:2312.06720},
-  year={2023}
-}
