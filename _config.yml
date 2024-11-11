@@ -1,0 +1,17 @@
+# Site settings
+title: Jinghao Zhou
+email: jensen.zhoujh@gmail.com
+baseurl: ""
+url: "http://shallowtoil.github.io"
+blogurl: "http://shallowtoil.github.io/blog"
+github_username:  shallowtoil
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
