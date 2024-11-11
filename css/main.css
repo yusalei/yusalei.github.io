@@ -1,0 +1,219 @@
+body {
+	font-family: Georgia, serif;
+	font-size: 15.5px;
+}
+
+div#toptitle {
+    	padding-bottom: 0.2em;
+    	margin-bottom: 1.5em;
+    	border-bottom: 3px double gray;
+}
+
+div#toptitle h1 {
+    margin-bottom: 0.0em;
+    padding-bottom: 0.0em;
+    padding-top: 0;
+    margin-top: 0.5em;
+    border-bottom: none;
+}
+
+h1 {
+	font-size: 165%;
+}
+
+h3 {	
+	color: #527bbd;
+	border-bottom: 1px solid #aaaaaa;
+}
+
+h4 {
+	margin: 5px 0;
+}
+
+a {
+	color: #224b8d;
+}
+
+.row a:hover {
+	border-bottom: 1px gray dotted;
+	text-decoration: none;
+}
+
+div.infoblock  {
+	background: #ffe;
+	border: 1px solid silver;
+	padding: 0.3em 0.5em;
+}
+
+div.infoblock p {
+    margin-bottom: 0em;
+}
+
+img.resized {
+    object-fit: contain;
+    width: 160px;
+    height: 90px;
+  }
+
+.logo-image { max-width:75%; height:auto; overflow:hidden;}
+
+.abstract-text { color: #606060; }
+
+.container {
+    position: relative;
+}
+
+.list {
+    list-style: none;
+    border-width: 6px;
+    border-style: solid;
+    /* border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%,  rgba(179,179,179) 40%) 0 0 0 1;  */
+    border-image: linear-gradient(to bottom, lightgrey,  lightgrey) 0 0 0 1; 
+    margin-left: 9px;
+    margin-bottom: -5px;
+}
+
+.list-important {
+    list-style: none;
+    border-width: 6px;
+    border-style: solid;
+    /* border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%,  rgba(179,179,179) 40%) 0 0 0 1;  */
+    border-image: linear-gradient(to bottom, rgb(255, 166, 166),  rgb(255, 166, 166)) 0 0 0 1; 
+    margin-left: 9px;
+    margin-bottom: -5px;
+}
+
+
+.list-info {
+    list-style: none;
+    border-width: 6px;
+    border-style: solid;
+    /* border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%,  rgba(179,179,179) 40%) 0 0 0 1;  */
+    border-image: linear-gradient(to bottom, lightgrey,  lightgrey) 0 0 0 1; 
+    margin-left: 9px;
+}
+
+.item {
+    margin-left: 10px;
+}
+
+#main_body {
+    float: right;
+}
+
+#floating_sidebar {
+    position:fixed;
+    left: 0;
+    top: 0; /* change to adjust height from the top of the page */
+}
+
+#blackBar{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:30px;
+    line-height: 30px;
+    background-color:white;
+
+}
+
+#photos {
+    /* Prevent vertical gaps */
+    line-height: 0;
+    -webkit-column-count: 5;
+    -webkit-column-gap:   0;
+    -moz-column-count:    5;
+    -moz-column-gap:      0;
+    column-count:         5;
+    column-gap:           0;
+}
+
+#photos img {
+    /* Just in case there are inline attributes */
+    width: 100% !important;
+    height: auto !important;
+}
+
+#footer {
+  position: fixed;
+  bottom: 0;
+}
+
+@media (max-width: 1200px) {
+    #photos {
+        -moz-column-count:    4;
+        -webkit-column-count: 4;
+        column-count:         4;
+    }
+}
+@media (max-width: 1000px) {
+    #photos {
+        -moz-column-count:    3;
+        -webkit-column-count: 3;
+        column-count:         3;
+    }
+}
+@media (max-width: 800px) {
+    #photos {
+        -moz-column-count:    2;
+        -webkit-column-count: 2;
+        column-count:         2;
+    }
+}
+@media (max-width: 400px) {
+    #photos {
+        -moz-column-count:    1;
+        -webkit-column-count: 1;
+        column-count:         1;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+    #footer {
+        transform: scale(0.6666667);
+        left: 0;
+    }
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+  
+.left {
+    flex: 1;
+    text-align: left;
+}
+
+.center {
+    flex: 1;
+    text-align: left;
+}
+
+.right {
+    flex: 1;
+    text-align: right;
+}
+
+#question-mark {
+ cursor: pointer;
+ font-weight: bold;
+ color: gray; /* Change the color as needed */
+ font-size: 40%; /* Adjust the font size to make it smaller */
+ vertical-align: top; /* Display the question mark as a superscript */
+}
+
+#tooltip {
+display: none;
+position: absolute;
+background-color: #f9f9f9;
+padding: 5px;
+border: 1px solid #ccc;
+border-radius: 4px;
+box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+font-size: 20%; /* Set to the desired font size */
+font-weight: normal; /* Set the font weight to normal */
+font-style: normal; /* Set the font style to normal */
+font-family: "Times New Roman", serif /* Set the desired font family */
+}
