@@ -4,12 +4,6 @@ Previously, I recevied my B.S. from South China University of Technology and M.S
 
 
 ## Research Interests
-My research goal is to democratize AI development by making both data and model scaling more
-efficient and effective in today’s large-scale environment, based on four complementary areas of work
-tackling different aspects of data and model scaling challenges. On data side, I study (1) how to
-efficiently curate large datasets, and (2) how to effectively align model behavior through data. On
-model side, I tackle (3) how to efficiently deploy large models, and (4) how to effectively adapt large
-models to downstream applications.
 
 ## Preprints
 - [Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions](https://arxiv.org/abs/2407.06723). 2024.
@@ -107,15 +101,8 @@ models to downstream applications.
 
 
 ## Professional Experience
-Research Intern, Apple Machine Learning Research
-<br>Mentor: [Hadi Pouransari](https://www.linkedin.com/in/pouransari/) and [Pavan Kumar Anasosalu Vasu](https://scholar.google.com/citations?user=F3KISxoAAAAJ&hl=en)
-<br>*Spring 2024 - Present*
+Research Intern, Meta MSL
+<br>Mentor: [Zecheng He](https://zechenghe.github.io/), [Junjiao Tian](https://potatotian.github.io/) and [Zhipeng Fan](https://scholar.google.com/citations?user=Nb6ggPwAAAAJ&hl=en)
+<br>*Summer 2025 - Winter 2025*
 
-Student Researcher, Google Cloud AI Research
-<br>Mentor: [Chen-Yu Lee](https://chl260.github.io/) and [Chun-Liang Li](https://chunliangli.github.io/)
-<br>*Summer 2022 - Winter 2024*
-
-Research Intern, RIKEN AIP
-<br>Mentor: [Masashi Sugiyama](http://www.ms.k.u-tokyo.ac.jp/sugi/)
-<br>*April 2018 - July 2018*
 
