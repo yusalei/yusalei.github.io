@@ -1,6 +1,6 @@
-I am a second-year Ph.D. student in Computer Science & Engineering at the University of California San Diego, working with [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) on tackling challenges in today's multimodal large language model.
+Hi I am Max, a second-year Ph.D. student in Computer Science & Engineering at the [University of California San Diego](https://www.ucsd.edu/), working with [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) on tackling challenges in today's multimodal large language model. I am currently a Research Intern in [NVIDIA Research](https://www.nvidia.com/en-us/research/).
 
-Previously, I recevied my B.S. from South China University of Technology and M.S. from Zhejiang University. 
+I recevied my B.S. from South China University of Technology and M.S. from Zhejiang University. Previously, I have interned at [Meta GenAI](https://research.facebook.com/).
 
 
 ## Research Interests
@@ -33,7 +33,7 @@ Previously, I recevied my B.S. from South China University of Technology and M.S
 
 
 ## Professional Experience
-Research Intern, Meta MSL
+Research Intern, [Meta MSL](https://research.facebook.com/)
 <br>Mentor: [Zecheng He](https://zechenghe.github.io/), [Junjiao Tian](https://potatotian.github.io/), and [Zhipeng Fan](https://scholar.google.com/citations?user=Nb6ggPwAAAAJ&hl=en)
 <br>*Summer 2025 - Winter 2025*
 
