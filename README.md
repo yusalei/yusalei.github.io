@@ -5,12 +5,12 @@ Previously, I recevied my B.S. from South China University of Technology and M.S
 
 ## Research Interests
 
-## Preprints
-- [Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions](https://arxiv.org/abs/2407.06723). 2024.
-<br> Yu-Guan Hsieh\*, **Cheng-Yu Hsieh\***, Shih-Ying Yeh, Louis Béthune, Hadi Pour Ansari, Pavan Kumar Anasosalu Vasu, Chun-Liang Li, Ranjay Krishna, Oncel Tuzel, Marco Cuturi
-
 
 ## Publications
+- [Think in Strokes not in Pixels: Provess-driven Image Generation via Interleaved Reasoning]. 2025.
+<br>**Lei Zhang**, Junjiao Tian, Zhipeng Fan, Kunpeng Li, Jialiang Wang, Weifeng Chen, Markos Georgopoulos, Felix Juefei-Xu, Yuxiang Bao, Julian McAuley, Manling Li, Zecheng He
+<br>Under Review.
+
 - [RealEdit: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations](https://arxiv.org/abs/2502.03629).
 <br>Peter Sushko, Ayana Bharadwaj, Zhi Yang Lim, Vasily Ilin, Ben Caffee, Dongping Chen, Mohammadreza Salehi, **Cheng-Yu Hsieh**, Ranjay Krishna
 <br>CVPR 2025.
