@@ -7,13 +7,13 @@ Previously, I recevied my B.S. from South China University of Technology and M.S
 
 
 ## Publications
-- [Think in Strokes not in Pixels: Provess-driven Image Generation via Interleaved Reasoning]. 2025.
+- [Think in Strokes not in Pixels: Provess-driven Image Generation via Interleaved Reasoning](https://yusalei.github.io). 
 <br>**Lei Zhang**, Junjiao Tian, Zhipeng Fan, Kunpeng Li, Jialiang Wang, Weifeng Chen, Markos Georgopoulos, Felix Juefei-Xu, Yuxiang Bao, Julian McAuley, Manling Li, Zecheng He
 <br>Under Review.
 
-- [RealEdit: Reddit Edits As a Large-scale Empirical Dataset for Image Transformations](https://arxiv.org/abs/2502.03629).
-<br>Peter Sushko, Ayana Bharadwaj, Zhi Yang Lim, Vasily Ilin, Ben Caffee, Dongping Chen, Mohammadreza Salehi, **Cheng-Yu Hsieh**, Ranjay Krishna
-<br>CVPR 2025.
+- [LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation](https://arxiv.org/abs/2408.15881).
+<br>Fangxun Shu, Yue Liao, **Lei Zhang**, Le Zhuo, Chenning Xu, Guanghao Zhang, Haonan Shi, Long Chen, Tao Zhong, Wanggui He, Siming Fu, Haoyuan Li, Si Liu, Hongsheng Li
+<br>ICLR 2025.
 
 - [Perception Tokens Enhance Visual Reasoning in Multimodal Language Models](https://arxiv.org/abs/2412.03548).
 <br>Mahtab Bigverdi, Zelun Luo, **Cheng-Yu Hsieh**, Ethan Shen, Dongping Chen, Linda G. Shapiro, Ranjay Krishna
