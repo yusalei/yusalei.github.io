@@ -3,9 +3,6 @@ Hi I am Max, a second-year Ph.D. student in Computer Science & Engineering at th
 I recevied my B.S. from South China University of Technology and M.S. from Zhejiang University. Previously, I have interned at [Meta GenAI](https://research.facebook.com/).
 
 
-## Research Interests
-
-
 ## Publications
 - [Think in Strokes not in Pixels: Process-driven Image Generation via Interleaved Reasoning](https://yusalei.github.io). 
 <br>**Lei Zhang**, Junjiao Tian, Zhipeng Fan, Kunpeng Li, Jialiang Wang, Weifeng Chen, Markos Georgopoulos, Felix Juefei-Xu, Yuxiang Bao, Julian McAuley, Manling Li, Zecheng He.
