@@ -34,7 +34,7 @@ Previously, I recevied my B.S. from South China University of Technology and M.S
 
 ## Professional Experience
 Research Intern, Meta MSL
-<br>Mentor: [Zecheng He](https://zechenghe.github.io/), [Junjiao Tian](https://potatotian.github.io/) and [Zhipeng Fan](https://scholar.google.com/citations?user=Nb6ggPwAAAAJ&hl=en)
+<br>Mentor: [Zecheng He](https://zechenghe.github.io/), [Junjiao Tian](https://potatotian.github.io/), and [Zhipeng Fan](https://scholar.google.com/citations?user=Nb6ggPwAAAAJ&hl=en)
 <br>*Summer 2025 - Winter 2025*
 
 
