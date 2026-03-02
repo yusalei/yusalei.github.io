@@ -4,7 +4,7 @@ I recevied my B.S. from South China University of Technology and M.S. from Zheji
 
 
 ## Publications
-- [Think in Strokes not in Pixels: Process-driven Image Generation via Interleaved Reasoning](https://yusalei.github.io). 
+- [Think in Strokes, Not Pixels: Process-driven Image Generation via Interleaved Reasoning](https://yusalei.github.io). 
 <br>**Lei Zhang**, Junjiao Tian, Zhipeng Fan, Kunpeng Li, Jialiang Wang, Weifeng Chen, Markos Georgopoulos, Felix Juefei-Xu, Yuxiang Bao, Julian McAuley, Manling Li, Zecheng He.
 <br>Under Review.
 
