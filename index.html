@@ -140,6 +140,24 @@ a:focus {
   border-color: #FDE68A;
   background: #FEFCE8;
 }
+.venue-badge.meta-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 23px;
+  padding: 0 5px;
+  background: #fff;
+  border: 1px solid #CCDAE6;
+  border-radius: 20px;
+  align-self: stretch;   /* 关键：和同一行其它 badge 自动等高对齐 */
+  overflow: hidden;    /* 确保 logo 不会溢出 badge 圆角 */
+  box-sizing: border-box;
+}
+.venue-badge.meta-badge img {
+  height: 26px;          /* logo 大小，按需在 13–18px 之间微调 */
+  width: auto;
+  display: block;
+}
 .pub-title {
   font-weight: 600;
   color: #182B48;
@@ -316,6 +334,11 @@ a:focus {
             <div class="pub-badges">
               <span class="venue-badge">ECCV 2026</span>
               <a class="venue-badge award" href="https://huggingface.co/papers/2604.04746" target="_blank">#1 Paper of the day</a>
+              <a class="venue-badge meta-badge"
+                href="https://ai.meta.com/research/publications/think-in-strokes-not-pixels-process-driven-image-generation-via-interleaved-reasoning/"
+                target="_blank" rel="noopener" aria-label="Meta AI Research">
+                <img src="files/meta-logo.svg" alt="Meta">
+              </a>
             </div>
             <a class="pub-title" style="color: #182B48;" href="https://arxiv.org/abs/2604.04746">Think in Strokes, Not Pixels: Process-driven Image Generation via Interleaved Reasoning</a>
             <div class="pub-authors"><b>Lei Zhang</b>,&#8194;Junjiao Tian,&#8194;Zhipeng Fan,&#8194;Kunpeng Li,&#8194;Jialiang Wang,&#8194;Weifeng Chen,&#8194;Markos Georgopoulos,&#8194;Felix Juefei-Xu,&#8194;Julian McAuley,&#8194;Manling Li,&#8194;Zecheng He</div>
