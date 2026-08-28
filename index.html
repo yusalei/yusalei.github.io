@@ -154,7 +154,39 @@ a:focus {
   box-sizing: border-box;
 }
 .venue-badge.meta-badge img {
-  height: 26px;          /* logo 大小，按需在 13–18px 之间微调 */
+  height: 27px;          /* logo 大小，按需在 13–18px 之间微调 */
+  width: auto;
+  display: block;
+}
+.venue-badge.adobe-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;              /* 两边留白 */
+  background: #fff;
+  border: 1px solid #CCDAE6;
+  border-radius: 20px;
+  align-self: stretch;          /* 和同行 badge 等高 */
+  box-sizing: border-box;
+}
+.venue-badge.adobe-badge img {
+  height: 22px;                 /* 缩小 logo，上下自然留白 */
+  width: auto;
+  display: block;
+}
+.venue-badge.seed-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 10px;
+  background: #fff;
+  border: 1px solid #CCDAE6;
+  border-radius: 20px;
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.venue-badge.seed-badge img {
+  height: 12px;        /* 这个字标偏宽,15px 左右比较合适 */
   width: auto;
   display: block;
 }
@@ -355,6 +387,9 @@ a:focus {
           <div class="pub-body">
             <div class="pub-badges">
               <span class="venue-badge">Tech Report</span>
+              <span class="venue-badge seed-badge" aria-label="Seed">
+                <img src="files/seed-logo.svg" alt="Seed">
+              </span>
             </div>
             <a class="pub-title" style="color: #182B48;" href="https://arxiv.org/pdf/2608.24646">On-Policy Self-Distillation in Diffusion Models</a>
             <!-- <div class="pub-authors">Wei Chow,&#8194;Xiongwei Zhu,&#8194;Lingdong Kong,&#8194;Bo Chen,&#8194;<b>Lei Zhang</b>,&#8194;Yongyuan Liang,&#8194;Xiaoxia Hou,&#8194;Ye Tian,&#8194;Xian Sun,&#8194;Yingshuo Wang,&#8194;Linfeng Li,&#8194;Shengqiong Wu,&#8194;Leigang Qu,&#8194;Feng Li,&#8194;Wei Liu,&#8194;Julian McAuley,&#8194;Tat-Seng Chua</div> -->
@@ -412,7 +447,7 @@ a:focus {
           <div class="pub-body">
             <div class="pub-badges">
               <span class="venue-badge">ICCV 2023</span>
-              <a class="venue-badge meta-badge"
+              <a class="venue-badge adobe-badge"
                 href="https://research.adobe.com/news/adobe-research-at-iccv-2023/"
                 target="_blank" rel="noopener" aria-label="Adobe Research">
                 <img src="files/adobe-logo.svg" alt="adobe">
